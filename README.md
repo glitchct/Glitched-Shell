@@ -9,7 +9,7 @@ A collection of utilities bringing back classic features to Windows.
 
 ### Features
 - Classic style Start menu for Windows 7, 8, 8.1, 10, and 11
-- Toolbar for Windows Explorer
+- No Toolbar for Explorer
 - Explorer status bar with file size and disk space
 - Classic copy UI (Windows 7 only)
 - Title bar and status bar for Internet Explorer
